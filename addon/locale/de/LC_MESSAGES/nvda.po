@@ -1,0 +1,66 @@
+# UNTRANSLATED STRINGS FOR NVDA ADDON
+# Language: de
+# Generated: 2026-04-21 11:39:08
+#
+# Please translate the msgstr lines and use import-translations.py
+# to merge them back into the main .po file.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+#. Translators: This is a label to inform the user this addon could not be loaded correctly
+#: hwmath\addon\globalPlugins\hwmath\KSMathProvider.py:26
+msgid "HWMath Add-on could not be loaded correctly."
+msgstr "Das HW Math. Add-on konnte nicht korrekt geladen werden."
+
+#. Translators: dialog title when announcing an error
+#: hwmath\addon\globalPlugins\hwmath\KSMathProvider.py:18
+msgid "HWMath Error"
+msgstr "HWMath Fehler"
+
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: ..\hwmath\buildVars.py:26
+msgid "Allow display and announcement of MathML content, and interaction with MathML"
+msgstr "Anzeige und Ansage von MathML Inhalten zulassen, wie auch Interaktion mit MathML"
+
+#. Translators: This is the label for a combobox in the addon settings panel.
+#: ..\hwmath\addon\globalPlugins\hwmath\__init__.py:67
+msgid "Braille code for MathML content:"
+msgstr "Bralleübersetzung für MathML Inhalte:"
+
+#. Translators: Math code choice for French Braille
+#: ..\hwmath\addon\globalPlugins\hwmath\__init__.py:41
+msgid "FR"
+msgstr "FR"
+
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: ..\hwmath\buildVars.py:23
+msgid "HWMath"
+msgstr "HWMath"
+
+#. Translators: Math code choice for Nemeth Braille
+#: ..\hwmath\addon\globalPlugins\hwmath\__init__.py:37
+msgid "Nemeth"
+msgstr "Nemeth"
+
+#. Translators: Describes a command.
+#: ..\hwmath\addon\globalPlugins\hwmath\__init__.py:118
+#, python-format
+msgid "Shows the %s settings."
+msgstr "Zeigt die %s Einstellungen an."
+
+#. Translators: Math code choice for Unified English Braille (UEB)
+#: ..\hwmath\addon\globalPlugins\hwmath\__init__.py:39
+msgid "UEB"
+msgstr "UEB"
