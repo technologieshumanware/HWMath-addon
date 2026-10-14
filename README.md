@@ -14,10 +14,8 @@ HWMath also uses the mathml2braille javascript library
 * Allows passing the mathml content to a designated external program for further interaction. 
 For example, passing that content to a graphing calculator like HumanWare's KeyMath.
 
-## Main usages
-
-
-## HWMath v1.0
-...
+## License. 
+This falls under the NVDA plugin exemption where the plugin communicates with non-GPL modules to perform some actions, a situation analog to a speech engine plugin using a proprietary driver. The code of the addon itself is GPL 
 
 ## Contact and developer information
+Technologies Humanware <github@humnaware.com>
